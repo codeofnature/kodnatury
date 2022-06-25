@@ -12,7 +12,7 @@ layout: list-grid # list, list-sidebar, list-grid
 # for list-sidebar layout
 sidebar: 
   title: Po co ten blog?
-  description: |
+  description:
    Zapis fascynacji środowiskiem i przyrodą, ale także technologiami, które pozwalają je eksplorować i chronić.
     
   author: "Monk"

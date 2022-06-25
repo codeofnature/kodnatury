@@ -1,6 +1,6 @@
 ---
 title: "Kod Natury"
-subtitle: "Środowisko i Technologia"
+subtitle: "Środowisko i technologie"
 description: "."
 date: 2022-06-24T12:27:33-06:00
 images:

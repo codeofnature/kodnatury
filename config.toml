@@ -30,10 +30,10 @@ enableEmoji = true
 [params]
   orgName = "Marcin"
   orgLocal = "Naturalist"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "Środowisko i technologie."
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  logo = "/img/logo_transparent.png"
+  mainSections = ["blog", "projects", "observations"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -101,8 +101,8 @@ enableEmoji = true
 
 [menu]
   [[menu.header]]
-    name = "About"
-    title = "About Blogophonic"
+    name = "O mnie"
+    title = "O mnie"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -111,14 +111,14 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "Projekty"
+    title = "Portfolio projektów"
+    url = "/projects/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "Obserwacje"
+    title = "obserwacje"
+    url = "/observations/"
     weight = 4
     
   # Configure footer  
