@@ -1,5 +1,5 @@
 ---
-title: A Project Portfolio To Grow
+title: Projekty
 description: "Give your projects a place to live online."
 author: "Monk"
 show_post_thumbnail: true
@@ -28,7 +28,7 @@ cascade:
   # for single-sidebar layout only
   sidebar:
     text_link_label: View all projects
-    text_link_url: /projects/
+    text_link_url: /project/
     show_sidebar_adunit: false # show ad container
 ---
 

@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Środowisko i technologie."
   favicon = "/img/favicon.ico"
   logo = "/img/logo_transparent.png"
-  mainSections = ["blog", "projects", "observations"]
+  mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -113,12 +113,12 @@ enableEmoji = true
   [[menu.header]]
     name = "Projekty"
     title = "Portfolio projektów"
-    url = "/projects/"
+    url = "/project/"
     weight = 3
   [[menu.header]]
     name = "Obserwacje"
     title = "obserwacje"
-    url = "/observations/"
+    url = "/talk/"
     weight = 4
     
   # Configure footer  
